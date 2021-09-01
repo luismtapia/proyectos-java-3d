@@ -1,0 +1,2 @@
+Interaction.PickCallbackApp$MyCallbackClass
+Interaction.PickCallbackApp

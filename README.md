@@ -1,31 +1,15 @@
 # Proyectos java3D realizados en clase de Graficación 
 
-## Cubo con trasparencia y rotación
+A manera de ejecutar los archivos una vez en netbeans _click derecho > run file_
+- Cubo con trasparencia y rotación
+- Estrella con Iluminacion y rotación
+- Estrella con textura y rotación
+- Estrella 12 con Iluminacion y rotación
+- animaciones
+- rotaciones
+- texto 3D
+- Estrella 7 picos
 
-.mp4
+![Preview](./previews/java3d.gif)
 
----
-
-## Estrella con Iluminacion y rotación
-
-.mp4
-
----
-
-## Estrella con textura y rotación
-
-.mp4
-
----
-
-## Estrella 12 con Iluminacion y rotación
-
-.mp4
-
----
-
-## Estrella 12 con Iluminacion y rotación
-
-.mp4
-
----
+> si estudias en el tecno y Donato da la clase te sirven 
